@@ -1,6 +1,11 @@
 # zsh-tab-random-colors
 
-## require zsh
+## Description
+
+* This script helps you to identify the tabs in iTerms2 with different colors
+![](zsh-tab-random-color.jpg)
+
+## Steps to install(require zsh)
 
 * cd $ZSH_CUSTOM/plugins/
 * mkdir zsh-tab-random-colors
