@@ -21,5 +21,5 @@ function automatic_iterm_tab_color_cwd () {
 
 
 autoload -U add-zsh-hook
-add-zsh-hook precmd iterm2_tab_precmd
+#add-zsh-hook precmd iterm2_tab_precmd
 add-zsh-hook precmd automatic_iterm_tab_color_cwd
